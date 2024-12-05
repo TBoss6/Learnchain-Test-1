@@ -2,19 +2,7 @@
   {
     "id": 1,
     "name": "TBoss",
-    "email": "adebayotaiwo543@gmail.com",
+    "email": "adextaiwo654@gmail.com",
     "hashedPassword": "$2b$10$D5SsCi9KerNwjUEQ2LwW7.u8VsHpohwrdSFSTu.TeQuyMW/UUgRPa"
-  },
-  {
-    "id": 2,
-    "name": "TBoss",
-    "email": "adebayotaiwo542@gmail.com",
-    "hashedPassword": "$2b$10$3dpdI02TQ8xTjRxPAaWBFub6qIBjg2cy.fHiBUmLc.hG/b.CVi9em"
-  },
-  {
-    "id": 3,
-    "name": "TBoss",
-    "email": "adebayotaiwo541@gmail.com",
-    "hashedPassword": "$2b$10$1qbpsRyS16XwPcP.Fc/aZOk829r91S1yxP/aPN04Kgd7mOHkUe51i"
   }
 ]
