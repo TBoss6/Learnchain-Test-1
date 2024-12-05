@@ -1,0 +1,38 @@
+[
+  {
+    "user": {
+      "id": 1,
+      "name": "TBoss",
+      "email": "adebayotaiwo543@gmail.com"
+    },
+    "course": {
+      "id": 2,
+      "title": "Web3 Fundamentals",
+      "description": "Explore blockchain technology."
+    }
+  },
+  {
+    "user": {
+      "id": 1,
+      "name": "TBoss",
+      "email": "adebayotaiwo543@gmail.com"
+    },
+    "course": {
+      "id": 5,
+      "title": "React for Beginners",
+      "description": "Learn how to build dynamic web applications using React."
+    }
+  },
+  {
+    "user": {
+      "id": 2,
+      "name": "TBoss",
+      "email": "adebayotaiwo542@gmail.com"
+    },
+    "course": {
+      "id": 5,
+      "title": "React for Beginners",
+      "description": "Learn how to build dynamic web applications using React."
+    }
+  }
+]
